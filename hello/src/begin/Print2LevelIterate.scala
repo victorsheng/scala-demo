@@ -1,4 +1,4 @@
-package char1
+package begin
 
 object Print2LevelIterate {
 
