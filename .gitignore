@@ -1,0 +1,29 @@
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Eclipse project files
+.classpath
+.project
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea/*
+
+target/
+*/target/
+*.tlog
+*.log
+*.epoch
+/target/
+/.settings/*
+/.settings/
+/.settings
+.settings
+.settings/
