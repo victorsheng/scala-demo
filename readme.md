@@ -16,3 +16,8 @@ https://www.tutorialspoint.com/scala/index.htm
 
 # 官方文档
 https://docs.scala-lang.org/
+
+
+
+# 代码规范
+http://twitter.github.io/effectivescala/index-cn.html
